@@ -1,0 +1,2 @@
+# something
+.bash_rc
