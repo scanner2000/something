@@ -4,3 +4,6 @@ Authorization: Bearer 123
 db_username= got
 apikey=something
 database.yml
+
+
+thisisalocalsiteformeandmyhound.com
